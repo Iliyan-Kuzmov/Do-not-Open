@@ -1,0 +1,8 @@
+x=MsgBox("Virus detected", 48, "Warning")
+y=MsgBox("To destroy the virus you need to...", 64, "Warning")
+z=MsgBox("go", 0, "Warning")
+q=MsgBox("on", 0, "Warning")
+u=MsgBox("a date with me", 0, "Warning")
+i=MsgBox("Do you agree?", 4,"<3")
+l=MsgBox("Yaay!", 0, "<3")
+d=MsgBox("Virus destroyed<3", 64, "<3")
